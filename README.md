@@ -9,7 +9,7 @@ A sleek, responsive weather app that provides real-time weather updates using th
 Frontend: HTML5, CSS3<br>
 Styling: Modern CSS techniques, including gradients and responsiveness<br>
 Programming: JavaScript (ES6+ features)<br>
-API: OpenWeatherMap API<br>
+API: OpenWeatherMap API<br><br>
 🚀 How to Run the Project<br>
 Follow these steps to get the app up and running on your local machine:</p>
 <p class="has-line-data" data-line-start="16" data-line-end="31">1️⃣ Clone the Repository<br>
